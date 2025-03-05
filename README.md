@@ -25,4 +25,10 @@ This is an **Arduino-based password system** using a **keypad, LCD, and LEDs**. 
 ## 🚀 Future Improvements  
 - 🔊 **Add a buzzer** for sound feedback.  
 - 🔐 **Integrate with a servo motor** for door unlocking.  
-- 📲 **WiFi or Bluetooth support** for remote access.  
+- 📲 **WiFi or Bluetooth support** for remote access.
+
+  ## 🎥 Project Demo  
+
+[![Watch the video](https://youtu.be/E5ByTK5DEsc?si=qAyDTf74tkcPmqH4)
+
+Click the image above to watch the project demo!
