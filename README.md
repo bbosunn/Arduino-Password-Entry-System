@@ -1,6 +1,6 @@
 # 🔑 Arduino Password Entry System  
-## 📌 Project Overview  An Arduino-based password system using a keypad, LCD, and LEDs
-
+## 📌 Project Overview 
+This is an **Arduino-based password system** using a **keypad, LCD, and LEDs**. It checks for a correct password and provides visual feedback.  
 ## 🛠️ Components Used  
 - Arduino Mega 2560  
 - LCD 1602A Module  
