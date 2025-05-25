@@ -29,6 +29,6 @@ This is an **Arduino-based password system** using a **keypad, LCD, and LEDs**. 
 
   ## 🎥 Project Demo  
 
-[![Watch the video](https://youtu.be/E5ByTK5DEsc?si=qAyDTf74tkcPmqH4)
+(https://youtu.be/E5ByTK5DEsc?si=qAyDTf74tkcPmqH4)
 
-Click the image above to watch the project demo!
+Click the link above to watch the project demo!
